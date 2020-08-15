@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Sergey and I'm currently working on the **docs-like-code** CI/CD service in [Redoc.ly](https://redoc.ly). We use **TypeScript, React, GraphQL, Postgraphile**, and **AWS**. 
+
+Also, I love **🦀️ Rust** and new tech in general, so feel free to drop me a line if you'd like me to do some 🔬 R&D projects for you.
+
 <!--
 **knidarkness/knidarkness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

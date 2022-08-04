@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Sergey and I'm currently working with the ad-tech service in [Shinez.io](https://shinez.io). We use **JavScript, TypeScript, React, GraphQL, Postgraphile**, and **AWS**. **Go** is my second favorite language because of its simplicity and elegancy.
+My name is Sergey and I'm currently working with the mobile scanning platform [Anyline GmbH](https://anyline.com). We use **TypeScript, Nest, React, PostgreSQL**, and **GCP**. **Go** is my second favorite language because of its simplicity and elegancy.
 
 **Python** was the first language I used in production and I still appreciate its' syntax simplicity and expressiveness.
 
